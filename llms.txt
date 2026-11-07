@@ -1,0 +1,9 @@
+# casino-calculator
+
+Compare theoretical gambling costs using turnover, RTP and fixed fees. Transparent casino calculator, worked examples and a clear explanation of uncertainty.
+
+## Main page
+- [casino calculator](https://bonsaionlinecas-sys.github.io/casino-calculator/): Compare theoretical gambling costs using turnover, RTP and fixed fees. Transparent casino calculator, worked examples and a clear explanation of uncertainty.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. Inputs are processed locally in the browser.
